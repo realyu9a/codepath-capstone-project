@@ -84,10 +84,6 @@ FitFolio is more than just a fitness tracker; it's an all-in-one solution for be
 
 <div>
     <a href="https://imgur.com/GjNekJK">
-     </a>
-    <a href="https://imgur.com/GjNekJK">
-      <img style="max-width:300px;" src="https://imgur.com/GjNekJK">
-    </a>
   </div>
 
 
