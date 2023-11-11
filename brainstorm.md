@@ -41,3 +41,5 @@ Mobile App Dev - App Brainstorming
    - **Market:** This app caters to all people of all age groups. Everyone eats, exercises and sleeps. People who are looking to make positive changes to their diet, exercise routine or sleeping habits can use this app.
    - **Habit:** Encourages regular tracking and goal monitering. Users inputs their meals, exercises and sleep. 
    - **Scope:** A stripped down version would fuction as  a simple tracking app. 
+
+## Ideas: Final Idea: Fitness App
