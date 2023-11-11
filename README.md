@@ -80,7 +80,7 @@ FitFolio is more than just a fitness tracker; it's an all-in-one solution for be
  
 ## Wireframes
 
-<img src="file:///Users/yu9a/Desktop/fitfolio%20(1).pdf" width=600>
+<img src="." width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
