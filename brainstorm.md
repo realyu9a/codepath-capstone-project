@@ -34,13 +34,13 @@ Mobile App Dev - App Brainstorming
 
 
 2. Fitness tracker
-   - **Description**: Allows users to track expenses and and can provide notifications for transactions and reminders for bills. It allows users to upload pictures of receipts for easy record keeping. This will allow users to keep track of their finances all in one app. 
+   - **Description**: Allows users to track what you eat, how long you exercise for and how much you sleep. This will allow users to improve their health.
    - **Category:** Health and Fitness
    - **Mobile:**  App includes a camera that allows users to scan barcodes or pictures of their meal, sensors for tracking physical activity and sleep. 
    - **Story:** Helps everyone to improve their health. This app offers personalized insights into nutrition, exercise, and sleep, enabling users to make informed decisions for a healthier lifestyle.
    - **Market:** This app caters to all people of all age groups. Everyone eats, exercises and sleeps. Health enthusiasts or people who are looking to make positive changes to their diet, exercise routine or sleeping habits can use this app.
    - **Habit:** Encourages regular tracking and goal monitering. Users inputs their meals, exercises and sleep. Users consume and create by reviewing their data and creating goals. 
-- **Scope:** Users inputs their meals, exercises and sleep. 
+   - **Scope:** Users inputs their meals, exercises and sleep. 
 
 ## Ideas: Final Idea:
 **Fitness Tracker**
