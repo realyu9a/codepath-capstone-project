@@ -82,11 +82,6 @@ FitFolio is more than just a fitness tracker; it's an all-in-one solution for be
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="GjNekJK"><a href="https://imgur.com/GjNekJK">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<div>
-    <a href="https://imgur.com/GjNekJK">
-  </div>
-
-
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
