@@ -42,4 +42,5 @@ Mobile App Dev - App Brainstorming
    - **Habit:** Encourages regular tracking and goal monitering. Users inputs their meals, exercises and sleep. 
    - **Scope:** A stripped down version would fuction as  a simple tracking app. 
 
-## Ideas: Final Idea: Fitness App
+## Ideas: Final Idea:
+**Fitness Tracker**
