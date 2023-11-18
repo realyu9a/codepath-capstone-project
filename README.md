@@ -82,7 +82,7 @@ FitFolio is more than just a fitness tracker; it's an all-in-one solution for be
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="GjNekJK"><a href="https://imgur.com/GjNekJK">WireFrame</a></blockquote>
 
-
+https://www.loom.com/share/32c7dcd3d6c74c68856fae57c034ae2a?sid=272822e0-3b57-4ad1-a6bc-52be519327d5
 
 ### [BONUS] Digital Wireframes & Mockups
 
