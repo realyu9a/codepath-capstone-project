@@ -45,10 +45,10 @@ FitFolio is more than just a fitness tracker; it's an all-in-one solution for be
 
 ### 2. Screen Archetypes
 
-- [ ] Login Screen
+- [x] Login Screen
 * Users can login
 
-- [ ] Registration Screen
+- [x] Registration Screen
 * Users can create an account
 
 - [ ] Stream
