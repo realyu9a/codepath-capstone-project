@@ -91,7 +91,21 @@ https://www.loom.com/share/cce7542da7b442c4818d5847fe1fc4c5
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+```swift
+struct Task: 
+{
+    // name of food, null if other option is selected
+    var title: String
+    
+    // calories or hours
+    var note: String?
+    
+    // food or sleep or excerise
+    var option: Int
+    
+    // The due date by which the task should be completed
+    var dueDate: Date
+```
 
 ### Models
 
