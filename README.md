@@ -51,12 +51,11 @@ FitFolio is more than just a fitness tracker; it's an all-in-one solution for be
 - [x] Registration Screen
 * Users can create an account
 
-- [ ] Stream
-* Users can view an overview of their progress in nutrition, exercise, and sleep.
+- [x] Stream
+* Users can view the nutrition, exercise, and sleep tabs.
 
 - [ ] Creation
-* Users can log their daily meals including details such as food, quantity, nutritional info, log their workouts including exericse type and duration and log their sleep hours
-* Users can set goals for their nutrition, exercise and sleep
+* Users can log their daily meals including details such as food, calories, log their workouts  and log their sleep hours.
 
 ### 3. Navigation
 
@@ -69,13 +68,13 @@ FitFolio is more than just a fitness tracker; it's an all-in-one solution for be
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Login Screen
+- [x] Login Screen
 * => Dashboard
 
-- [ ] Registration Screen
+- [x] Registration Screen
 * => Dashboard
 
-- [ ] Creation Screen
+- [x] Creation Screen
 * => Dashboard
  
 ## Wireframes
