@@ -34,12 +34,12 @@ FitFolio is more than just a fitness tracker; it's an all-in-one solution for be
 
 * Users can log their daily meals including details such as food, quantity, nutritional info, log their workouts including exericse type and duration and log their sleep hours
 * Users can view an overview of their progress in nutrition, exercise, and sleep.
-* Users can set goals for their nutrition, exercise and sleep
 * Users can login
 * Users can create a new account
 
 **Optional Nice-to-have Stories**
 
+* Allow users to see a graph of their data and input goals.
 * Provide users with workout sessions, meal suggestions and sleep recommendations 
 * Users can connect with friends sharing achievements and progress
 
