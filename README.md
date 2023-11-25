@@ -54,7 +54,7 @@ FitFolio is more than just a fitness tracker; it's an all-in-one solution for be
 - [x] Stream
 * Users can view the nutrition, exercise, and sleep tabs.
 
-- [ ] Creation
+- [x] Creation
 * Users can log their daily meals including details such as food, calories, log their workouts  and log their sleep hours.
 
 ### 3. Navigation
@@ -106,6 +106,7 @@ struct Task:
     // The due date by which the task should be completed
     var dueDate: Date
 ```
+
 
 ### Models
 
